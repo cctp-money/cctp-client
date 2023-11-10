@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cctp-client"
+version = "0.0.1"
+authors = [
+  { name="bd21", email="bd21@uw.edu" },
+]
+description = "A library for interacting with CCTP"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/cctp-money/cctp-client"
+"Bug Tracker" = "https://github.com/cctp-money/cctp-client/issues"

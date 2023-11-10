@@ -1,0 +1,22 @@
+{
+  "name": "cctp-client",
+  "version": "0.0.1",
+  "description": "Client libraries that make it easy to interact with cctp.money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cctp-money/cctp-client.git"
+  },
+  "keywords": [
+    "cctp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cctp-money/cctp-client/issues"
+  },
+  "homepage": "https://github.com/cctp-money/cctp-client#readme"
+}
